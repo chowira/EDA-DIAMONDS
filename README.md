@@ -5,16 +5,16 @@
 * EDA
 * notebook
 * predictions
-## Introduction
+## Introduction📢📢
 In this project, we have a training dataset containing information about diamonds with various characteristics and a price column. We also have a test dataset to validate our results.
 
-## Objective
+## Objective 📄
 The goal is to train a model using the training data to predict the target (price) and find an effective and functional model based on MLflow.
 
-## EDA (Diamonds)
+## EDA (Diamonds) 📄
 This project includes a thorough analysis of the data and its variables, which can be found in the EDA folder.
 
-## Data Description
+## Data Description📋
 The dataset contains the following characteristics of diamonds:
 - **price**: Price of the diamond.
 - **carat**: Weight of the diamond.
@@ -37,7 +37,7 @@ We used the MLflow technique:
 ## Best Result
 ### File: `cleaning-3-feature-engineering-with-outliers`
 
-### Process Overview
+### Process Overview🛠️🛠️
 In this notebook, we followed these steps:
 - Loaded and reviewed the data.
 - Applied feature engineering and created new features (volume, volume_per_carat, etc.).
@@ -49,7 +49,7 @@ In this notebook, we followed these steps:
 - Repeated the same process for test data.
 - Generated predictions and saved them in the `predictions` folder.
 
-## Requirements
+## Requirements📦📦
 
 ### Python Version
 plaintext
